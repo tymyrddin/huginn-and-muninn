@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Local Routinator trust-anchor and cache directory, if you run it here.
+routinator/
+
+# Bulky MRT dumps Muninn may pull. Keep trimmed samples deliberately, not whole dumps.
+*.mrt
+*.bz2
+*.gz

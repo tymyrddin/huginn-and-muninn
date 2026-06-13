@@ -1,0 +1,3 @@
+# Only huginn/watch.py needs a dependency (the RIS Live websocket).
+# huginn/glass.py and huginn/validity.py use the standard library only.
+websocket-client>=1.6
