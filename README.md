@@ -80,7 +80,7 @@ python muninn/recall.py 203.0.113.0/24 --max-rows 100
 
 Standard library only, like `glass` and `validity`.
 
-## What it is, and is not
+## Scope
 
 A single eye sees the table its collectors' peers offered, not the one everyone
 sees. Partial vantage is the honest state of one eye; more sight comes from more
